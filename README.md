@@ -30,7 +30,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
  <div>
 <img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime2.JPG">
  </div>
- start버튼을 누르면 버튼은 사라지고 위와 같은 화면처럼 새로운 버튼들이 생깁니다.
+ start버튼을 누르면 그 버튼은 사라지고 위와 같은 화면처럼 새로운 버튼들이 생깁니다.
   </br>
    </br>
    
