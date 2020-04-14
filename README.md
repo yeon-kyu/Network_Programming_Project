@@ -5,15 +5,15 @@
 <div>
 <img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
  </div>
- </bro>
- </bro>
+ </br>
+ </br>
  
  
  시작할 때
  <div>
 <img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime1.JPG">
  </div>
- </bro>
+ </br>
  
  새로운 버튼의 등장
  <div>
