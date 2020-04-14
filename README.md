@@ -3,13 +3,13 @@
  
 <전체적인 시스템 구조>
 <div>
-<img width = "700" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
  </div>
- </br>
- </br>
-ArrayList에는 최근의 30개의 News의 제목을 저장하기 위한 자료구조이고, 
-HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자료구조입니다.
+ArrayList에는 최근의 30개의 News의 제목을 저장하기 위한 자료구조이고, </br>
+HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자료구조입니다. </br>
 이를 통해 귓속말을 보내거나 전체에게 공지사항을 전송시킬 수 있습니다.
+ </br>
+ </br>
  
  <시작할 때 첫 화면>
  <div>
