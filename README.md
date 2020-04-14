@@ -3,7 +3,7 @@
  
 <전체적인 시스템 구조>
 <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
+<img width = "700" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
  </div>
  </br>
  </br>
@@ -11,7 +11,7 @@
  
  <시작할 때 첫 화면>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime1.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime1.JPG">
  </div>
  </br>
  </br>
