@@ -1,6 +1,14 @@
 # Network_Programming_Project
  TCP/IP socket
  
+  </br>
+ </br>
+ 개요 : facebook과 같이 접속한 친구들과 게시글 올리기, 1대1 채팅하기, 파일 업로드/다운로드, 실시간 접속자 확인 등을 하는 프로그램입니다.
+ </br>
+ 올린 게시글은 게시글이 만들어진 이후에 들어온 client에게도 보이도록 설계하였습니다.
+  </br>
+ </br>
+ 
 <전체적인 시스템 구조>
 <div>
 <img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/structure.JPG">
@@ -93,7 +101,25 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
 <img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/many_clinets.JPG">
  </div>
  20개의 클라이언트를 실행시켰을 때의 화면입니다.  </br>
- 이상 없이 잘 작동하는 것을 확인할 수 있었습니다.
+ 이상 없이 잘 작동하는 것을 확인할 수 있습니다.
   </br>
    </br>
+[그 외 예외처리]</br>
+#1. 시작할 때 start버튼 외의 다른 버튼을 보이지 않게 함으로써 
+    start 버튼으로만 시작하도록 강제함 (비정상적 로그인 오류 방지)
+    </br></br>
+#2. 아이디 안치고 start버튼 클릭 시 “NoName + XXXX”로 아이디 자동생성
+</br></br>
+#3. 아이디 중복일 경우(재입력을 요구)
+</br></br>
+#4. 파일 업로드/ 다운로드 할 때 존재하지 않는 파일일 경우 </br> 
+System : file not exist 를 보여주며 재입력을 요구
+</br></br>
+#5. 귓속말 보낼 때 존재하지 않는 ID일 경우 </br>
+The corresponding ID does not exist 를 보여주며 재입력을 
+</br>
+</br>
+
+
+
 
