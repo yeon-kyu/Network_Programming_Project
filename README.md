@@ -96,7 +96,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
   </br>
    </br>
 
-<여러개의 클라이언트 실행시켰을 때 >
+<여러 개의 클라이언트 실행시켰을 때 >
  <div>
 <img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/many_clinets.JPG">
  </div>
