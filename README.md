@@ -20,7 +20,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
  
  <새로운 버튼의 등장>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime2.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime2.JPG">
  </div>
  start버튼을 누르면 버튼은 사라지고 위와 같은 화면처럼 새로운 버튼들이 생깁니다.
   </br>
@@ -29,7 +29,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
    
  <모두에게 공지하기 기능>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime3.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime3.JPG">
  </div>
   </br>
    </br>
@@ -37,7 +37,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
  
  <파일 업로드하기>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime4.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime4.JPG">
  </div>
   </br>
    </br>
@@ -45,7 +45,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
  
  <파일 다운로드>
   <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime5.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime5.JPG">
  </div>
  </br>
  
@@ -53,14 +53,14 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
   </br>
 <이미지 파일을 다운로드 받았을때 GUI변화>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime6.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime6.JPG">
  </div>
  </br>
   </br>
   
 <자신의 파일 목록 확인>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime7.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime7.JPG">
  </div>
  클라이언트의 exe파일이 있는 디렉토리 기준으로 어떤 파일이 있는지 확인할 수 있습니다.
  </br>
@@ -68,7 +68,7 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
   
 <서버의 파일 목록>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime8.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime8.JPG">
  </div>
  서버의 exe파일이 있는 디렉토리를 기준으로 어떤 파일이 있는지 확인할 수 있습니다.
   </br>
@@ -76,23 +76,24 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
 
 <접속한 모든 사용자들 닉네임 실시간 확인>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime9.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime9.JPG">
  </div>
   </br>
    </br>
 
 <귓속말 기능>
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime10.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/runtime10.JPG">
  </div>
   </br>
    </br>
 
 <여러개의 클라이언트 실행시켰을 때 >
  <div>
-<img width = "500" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/many_clinets.JPG">
+<img width = "600" src = "https://github.com/yeon-kyu/Network_Programming_Project/blob/master/images/many_clinets.JPG">
  </div>
- 20개의 클라이언트를 실행시켰을 때의 화면입니다. 이상 없이 잘 작동하는 것을 확인할 수 있었습니다.
+ 20개의 클라이언트를 실행시켰을 때의 화면입니다.  </br>
+ 이상 없이 잘 작동하는 것을 확인할 수 있었습니다.
   </br>
    </br>
 
