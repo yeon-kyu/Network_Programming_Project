@@ -110,13 +110,13 @@ HashMap은 접속한 클라이언트의 ID와 Socket을 저장하기 위한 자�
     </br></br>
 #2. 아이디 안치고 start버튼 클릭 시 “NoName + XXXX”로 아이디 자동생성
 </br></br>
-#3. 아이디 중복일 경우(재입력을 요구)
+#3. 로그인 할 때 아이디 중복일 경우 재입력을 요구
 </br></br>
 #4. 파일 업로드/ 다운로드 할 때 존재하지 않는 파일일 경우 </br> 
 System : file not exist 를 보여주며 재입력을 요구
 </br></br>
 #5. 귓속말 보낼 때 존재하지 않는 ID일 경우 </br>
-The corresponding ID does not exist 를 보여주며 재입력을 
+The corresponding ID does not exist 를 보여주며 재입력을 요구
 </br>
 </br>
 
